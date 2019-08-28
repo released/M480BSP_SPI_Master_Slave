@@ -1,6 +1,4 @@
 # M480BSP_SPI_Master_Slave
- M480BSP_SPI_Master_Slave
-
 M480BSP_SPI_Master_Slave
 
 update @ 2019/08/28
